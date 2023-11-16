@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+header{
+    background-color: rgb(255, 0, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body{
+    text-align: center;
+}
